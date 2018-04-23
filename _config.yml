@@ -1,6 +1,6 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: RK "Izhevsk"
+author: admin
+email: velo@izh.com
 description: > # this means to ignore newlines until "twitter_username:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ title: Рандоннерский клуб "Ижевск"
 twitter_username: jekyllrb
 github_username:  jekyll
 copyright: © 2018 Рандоннерский клуб "Ижевск". Код ACP 511062.
-rss: rss
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
