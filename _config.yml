@@ -29,8 +29,7 @@ rss: rss
 
 header_pages:
  - 01_articles.md
- - 02_вторая.md
- - обком.md
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
