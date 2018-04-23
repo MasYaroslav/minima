@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "twitter_username:"
   Google search results) and in your feed.xml site description.
 baseurl: ""
 # social links
+title: Рандоннерский клуб "Ижевск"
 twitter_username: jekyllrb
 github_username:  jekyll
 copyright: © 2018 "Ijevsk"
