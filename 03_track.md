@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Статистика
+title: Маршруты
 permalink: /track/
 ---
