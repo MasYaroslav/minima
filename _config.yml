@@ -29,8 +29,8 @@ rss: rss
 #   instance: example.com
 
 header_pages:
- - 01_Календарь.md
- - 02_Статистика.md
+ - 01_calend.md
+ - 02_stat.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
