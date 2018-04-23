@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>Статистика</h1>
+{% for post in site.categories.stat %}
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+{% endfor %}
