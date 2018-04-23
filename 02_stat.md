@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Результаты марафонов
+title: Статистика
 permalink: /stat/
 ---
