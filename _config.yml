@@ -30,6 +30,7 @@ rss: rss
 
 header_pages:
  - 01_Календарь.md
+ - 02_Статистика.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
