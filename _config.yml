@@ -29,6 +29,7 @@ rss: rss
 #   instance: example.com
 
 header_pages:
+ - 00_home.md
  - 01_calend.md
  - 02_stat.md
  - 03_track.md
