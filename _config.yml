@@ -46,7 +46,7 @@ minima:
 # - about.html
 
 # Build settings
-theme: minima
+theme: tale
 
 plugins:
  - jekyll-feed
