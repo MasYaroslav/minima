@@ -19,6 +19,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            {{ post.content | strip_html | truncatewords: 30 }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
@@ -29,7 +30,4 @@ layout: default
     </ul>
 
   {%- endif -%}
-        <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
-        </p>
-</div>
+ </div>
