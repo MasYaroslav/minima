@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Маршруты бреветов</h1>
+<h3>Маршруты бреветов</h3>
 {% for post in site.categories.track %}
     <time>{{ post.date | date: "%b %-d, %Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
