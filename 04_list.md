@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Маршруты
+title: О марафонах
 permalink: /list/
 ---
