@@ -32,6 +32,7 @@ header_pages:
  - 01_calend.md
  - 02_stat.md
  - 03_track.md
+ - 04_List.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -39,11 +40,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%e.%m.%Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
 
 # Build settings
 theme: minima
