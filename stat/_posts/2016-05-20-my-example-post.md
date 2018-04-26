@@ -2,8 +2,6 @@
 layout: code
 title:  "Цветуёчки"
 date:   2017-04-12 11:43:51 +0000
-categories: java
-tags: [java, random]
 author: Анонимус
 ---
 
