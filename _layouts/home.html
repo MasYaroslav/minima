@@ -29,5 +29,7 @@ layout: default
     </ul>
 
   {%- endif -%}
-
+        <p>
+          {{ post.content | strip_html | truncatewords: 30 }}
+        </p>
 </div>
