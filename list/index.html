@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h3>Статьи о марафонах</h3>
+<h2>Статьи о марафонах</h2>
 {% for post in site.categories.list %}
     <time>{{ post.date | date: "%e.%m.%Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
