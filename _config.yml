@@ -32,7 +32,7 @@ header_pages:
  - 01_calend.md
  - 02_stat.md
  - 03_track.md
- - 04_List.md
+ - 04_list.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
