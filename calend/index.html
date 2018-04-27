@@ -4,6 +4,6 @@ layout: default
 
 <h2>Календарь мероприятий</h2>
 {% for post in site.categories.calend %}
-    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <time>{{ post.date | date: "%e.%m.%Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
